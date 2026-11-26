@@ -1,0 +1,10 @@
+<zoo>
+    <animal>
+        <name>Лев</name>
+        <food>Мясо</food>
+    </animal>
+    <animal>
+        <name>Слон</name>
+        <food>Трава</food>
+    </animal>
+</zoo>
